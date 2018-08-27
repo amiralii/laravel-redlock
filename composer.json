@@ -1,11 +1,11 @@
 {
-  "name": "thatsus/laravel-redlock",
+  "name": "amiralii/laravel-redlock",
   "description": "Redis distributed locks for laravel",
   "license": "MIT",
   "keywords": ["redlock", "laravel redis lock", "redis lock"],
   "authors": [
     {
-      "name": "LibiChai",
+      "name": "amiralii",
       "email": "mr.roshanae@gmail.com"
     }
   ],
