@@ -10,9 +10,10 @@ This library was originally built by LibiChai based on the Redlock algorithm dev
 
 ### Installation
 
-1. `composer require amiralii/laravel-redlock`
-2. Add `Amiralii\RedLock\RedLockServiceProvider::class,` to the `providers` array in config/app.php
-3. Enjoy!
+1. `"amiralii/laravel-redlock": "dev-master"`
+2. `"composer update"`
+3. Add `Amiralii\RedLock\RedLockServiceProvider::class,` to the `providers` array in config/app.php
+4. Enjoy!
 
 
 ### It's Simple!
