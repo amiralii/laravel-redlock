@@ -1,6 +1,6 @@
 <?php
 
-namespace ThatsUs\RedLock;
+namespace Amiralii\RedLock;
 
 use Mockery;
 use TestCase;

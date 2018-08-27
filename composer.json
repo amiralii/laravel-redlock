@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ThatsUs\\RedLock\\": "src/"
+      "Amiralii\\RedLock\\": "src/"
     }
   },
   "autoload-dev": {
@@ -33,7 +33,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "ThatsUs\\RedLock\\RedLockServiceProvider"
+        "Amiralii\\RedLock\\RedLockServiceProvider"
       ]
     }
   },

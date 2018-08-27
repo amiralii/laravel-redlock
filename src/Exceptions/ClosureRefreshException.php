@@ -1,6 +1,6 @@
 <?php
 
-namespace ThatsUs\RedLock\Exceptions;
+namespace Amiralii\RedLock\Exceptions;
 
 class ClosureRefreshException extends \Exception
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace ThatsUs\RedLock;
+namespace Amiralii\RedLock;
 
 use Illuminate\Support\ServiceProvider;
-use ThatsUs\RedLock\RedLock;
+use Amiralii\RedLock\RedLock;
 
 class RedLockServiceProvider extends ServiceProvider{
     /**
