@@ -5,8 +5,8 @@
   "keywords": ["redlock", "laravel redis lock", "redis lock"],
   "require": {
     "php": "^7.1.3",
-    "illuminate/support": "^5.7",
-    "illuminate/console": "^5.7",
+    "illuminate/support": "^8.1",
+    "illuminate/console": "^8.1",
     "predis/predis": "^1.1"
   },
   "require-dev": {
